@@ -16,6 +16,7 @@ rcourse
 * To convert the .md into an html [reveal](https://github.com/hakimel/reveal.js) presentation use the **md2reveal.sh** script (keeping the folder structure)
 * To convert the .md into a pdf document use the **md2latex.sh** script and the compile it with *pdflatex* (you also need [LaTex](http://www.latex-project.org/) installed)
 * You can find the necessary data files in the *data_files* folder
+* The logo image at beginning of the presentation must be a file named *logo.png*
 
 *Tested under a Linux Ubuntu/Debian environment*
 
