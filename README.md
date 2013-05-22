@@ -9,6 +9,8 @@ rcourse
 
 [Link to the on-line presentation](https://dl.dropboxusercontent.com/u/62560154/cursoR_AIL/introduccion.html#/)
 
+*right arrow: next section; down arrow: subsections*
+
 # Materials and compilation
 
 * Raw slides are written using [markdown](http://daringfireball.net/projects/markdown/) syntax in the **introduccion.md** file
