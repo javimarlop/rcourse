@@ -22,7 +22,7 @@ $if(theme)$
 $else$
   <link rel="stylesheet" href="css/theme/default.css" id="theme">
 $endif$
-    <link rel="stylesheet" href="css/theme/bg.css">
+
 
 <!-- For syntax highlighting -->
 $if(highlight-style)$
@@ -48,7 +48,6 @@ $endfor$
 </head>
 
 <body>
-
 $for(include-before)$
   $include-before$
 $endfor$
