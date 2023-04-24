@@ -396,7 +396,7 @@ plot(lm_pl_sl)
 
 ## Gráficos avanzados con ggplot2
 
-[Manual de ggplot2 online](http://docs.ggplot2.org/current/)
+[Manual de ggplot2 online](https://ggplot2.tidyverse.org/reference/)
 
 ## Regresión lineal 
 
